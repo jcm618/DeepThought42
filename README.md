@@ -7,6 +7,6 @@ Readme update: Added by Jarrod 29 Aug 2024 at 1713 CDT.
 
 Here is the website for the project: https://servicetosurvival3.godaddysites.com/
 
-Deep Thought 42 is a sub-project of Service to Survival (StS). It is a project to use math and logic to solve problems. Service to Survival is a group of Military Veterans that want to continue serving their country. They are not one and the same. Deep Thought 42 was born of the latter and is not necessarily a reflection of StS. It could not have existed before StS, because it needed to grow organically. 
+Deep Thought 42 is a sub-project of Service to Survival (StS). It is a project to use math and logic to solve problems. Service to Survival is a group of Military Veterans that want to continue serving their country. They, and this project, are not necessarily one and the same. Deep Thought 42 was born of the latter and is not necessarily a reflection of StS. It could not have existed before StS, because it needed to grow organically. 
 
 Obviously, Deep Thought 42 is inspired heavily by Douglas Adams' excellent series, "The Hitchhiker's Guide to the Galaxy", but it is not affiliated with Mr. Adams, his estate, or any other intellectual property.  This project is not intended to harm any interests of anyone, so please reach out if you are concerned about my own content not being wholly mine. //Added by Jarrod 29 Aug 2024 at 1713 CDT.
