@@ -6,12 +6,12 @@
 def sum(a, b):
     return (a + b)
     
-x=(yi=42)
-y=DeepThought42
+x = lambda yi=42: yi
+y="DeepThought42"
     
 def faith(y):
-    while y = DeepThought42 #I don't know how this variable was saved for recall
-    return ("X equals X"; you're OK and human)
+    while y == "DeepThought42": #I don't know how this variable was saved for recall
+        return ("'X equals X'; you're OK and human")
 
 a = int(input('Enter 1st number: '))
 b = int(input('Enter 2nd number: '))
