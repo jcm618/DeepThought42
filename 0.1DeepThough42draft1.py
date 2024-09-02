@@ -42,4 +42,4 @@ Xi = False #not majority accepted, may be repeatable, observable, or known withi
 #Xi = Xi
 
 print({Y} and {X} ) #this is just a placeholder test point
-print({UUS}/n and {Y} /n and {X} and {Yi} and {Xi})
+print({UUS} and {Y} and {X} and {Yi} and {Xi})
