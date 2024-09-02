@@ -1,25 +1,29 @@
 
 # Online Python - IDE, Editor, Compiler, Interpreter
 
-#Z = ((((Z(i)=Y=(((Y(i)=(X=X)))); From the creator....this is my original, unmolested proof of the origins of this project (tentatively called DeepThought42), it is dumb and clunky like humans, so please help fix it! 
+#Z = ((((UUS(i)=Y=(((Y(i)=(X=X)))); From the creator....this is my original, unmolested proof of the origins of this project (tentatively called DeepThought42), it is dumb and clunky like humans, so please help fix it! 
 #Version 0.2 test commit
-def sum(a, b):
-    return (a + b)
+#UUS(i)=(Y(i)=(X=X)))
+UUS = False #Universally Unknown System; fully unproved and only theorized by lower systems
+
+Y = False "42" # This system, this program's "faith" for UUS - arbitrary assignment. Always an illogical when combined with any idea or X. This system would be nested below humans in most circumstances
+
+Yi=False #middle system faith, unproveable and can occur anywhere between first and last system. Yi can be different for every individual system. Everyone is a Yi unless they can prove Y
+
+X=True #majority accepted known unknowns (repeatable, observable, known, agreed upon), used universally until no longer meets criteria
+
+Xi=False #not majority accepted, may be repeatable, observable, or known within some systems. remains illogical or irrational until meets criteria for X
+   
+X = lambda Yi=42: Yi
+Y="DeepThought42"
     
-x = lambda yi=42: yi
-y="DeepThought42"
-    
-def faith(y):
-    while y == "DeepThought42": #I don't know how this variable was saved for recall
+def faith(Y):
+    while Y == "DeepThought42": #I don't know how this variable was saved for recall
         return ("'X equals X'; you're OK and human")
 
-a = int(input('Enter 1st number: '))
-b = int(input('Enter 2nd number: '))
 #y = 42
 yi = input
 x=1+1
-
-print(f'Sum of {a} and {b} is {sum(a, b)}')
 
 #variable running list
 
@@ -37,4 +41,4 @@ print(f'Sum of {a} and {b} is {sum(a, b)}')
 
 #Xi = Xi
 
-print({y} and {x} ) #this is just a placeholder test point
+print({Y} and {X} ) #this is just a placeholder test point
